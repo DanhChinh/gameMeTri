@@ -1,0 +1,81 @@
+[
+    {
+        "name":"1k",
+        "value":"1000",
+        "style":"dark-outline"
+    },
+    {
+        "name":"5k",
+        "value":"5000",
+        "style":"dark-outline"
+    },
+    {
+        "name":"10k",
+        "value":"10000",
+        "style":"dark-outline"
+    },
+    {
+        "name":"20k",
+        "value":"20000",
+        "style":"dark-outline"
+    },
+    {
+        "name":"30k",
+        "value":"30000",
+        "style":"dark-outline"
+    },
+    {
+        "name":"40k",
+        "value":"40000",
+        "style":"dark-outline"
+    },
+    {
+        "name":"50k",
+        "value":"50000",
+        "style":"dark-outline"
+    },
+    {
+        "name":"70k",
+        "value":"70000",
+        "style":"dark-outline"
+    },
+    {
+        "name":"100k",
+        "value":"100000",
+        "style":"dark-outline"
+    },    {
+        "name":"38k",
+        "value":"38000",
+        "style":"dark-outline"
+    },    {
+        "name":"1B",
+        "value":"1000000000",
+        "style":"dark-outline"
+    },
+    {
+        "name":"Combo ",
+        "value":"Combo:\nThoi gian: 22h->7h(40K)\nNuoc ngot: Sting chai sanh(10k)\nTong: 50K",
+        "style":"dark-outline"
+    },
+    {
+        "name":"Wifi",
+        "value":"GameMeTri1 12345678",
+        "style":"dark"
+    },
+    {
+        "name":"CHINH",
+        "value":"Tpbank BuiDanhChinh 8866.8598.888",
+        "style":"dark"
+    },
+    {
+        "name":"HOANG",
+        "value":"VietcomBank NguyenXuanHoang 1020.911.499",
+        "style":"dark"
+    },
+        {
+        "name":"Clear",
+        "value":"",
+        "style":"dark"
+    }
+
+]
