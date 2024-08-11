@@ -1,0 +1,11 @@
+{
+    "default":{
+        "theme":"darkly",
+        "font":"Arial",
+        "size":10
+    },
+    "allstyle":{
+        "themes":["litera","cosmo","flatly","journal","superhero","darkly","cyborg"],
+        "fonts":["Arial","Courier New", "Times New Roman","Verdana"]
+    }
+}
